@@ -1,0 +1,38 @@
+--------------------------------------------
+|------------------TODO--------------------|
+--------------------------------------------
+Grid
+Point Testing
+
+--------------------------------------------
+|------------------WIP---------------------|
+--------------------------------------------
+
+
+
+--------------------------------------------
+|------------------DONE--------------------|
+--------------------------------------------
+Point(template):
+	Constructors
+	Gettters and Setters
+	Operators
+	Compare Operators
+	Distance
+	Input operator
+
+3DPoint
+	Constructors
+	Gettters and Setters
+	Operators
+	Compare Operators
+	Distance
+	Input operator
+
+3DPoint(template)
+	Constructors
+	Gettters and Setters
+	Operators
+	Compare Operators
+	Distance
+	Input operator
